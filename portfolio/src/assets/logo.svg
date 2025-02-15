@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 57" width="109" height="57">
+	<title>logo</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-16.501,51.405,-86.743,-27.844,219.1,39.998)">
+			<stop offset="0" stop-color="#df8908"/>
+			<stop offset="1" stop-color="#b415ff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.t1 { font-size: 34px;fill: #ffffff;font-weight: 400;font-family: "DeliusSwashCaps-Regular", "Delius Swash Caps" } 
+	</style>
+	<path class="s0" d="m68 42.4c0-1.1 0.9-1.9 1.9-1.8l31.4 3.5c3.9 0.5 7.3-2.9 6.9-6.9-0.5-4.1-4.8-6.6-8.6-5.1l-29.2 11.9c-1.1 0.5-2.4-0.4-2.4-1.6z"/>
+	<text id="Nithu" style="transform: matrix(1,0,0,1,11,40)" >
+		<tspan x="0" y="0" class="t1">N</tspan><tspan  y="0" class="t1">i</tspan><tspan  y="0" class="t1">t</tspan><tspan  y="0" class="t1">h</tspan><tspan  y="0" class="t1">u</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+</svg>
